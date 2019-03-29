@@ -1,4 +1,15 @@
 
+
+#tela {
+	
+	position: fixed;
+	bottom:0;
+	text-align:center;
+	
+	
+}
+
+
 .body {
   padding-top: 56px;
 }
